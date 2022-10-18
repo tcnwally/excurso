@@ -1,0 +1,133 @@
+* {
+
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+
+    background-color: black;
+    color: white;
+    padding: 20px;
+
+
+}
+
+
+
+header ul {
+
+    text-align: center;
+    display: flex;
+
+}
+
+header li {
+
+
+    margin: 20px;
+    list-style: none;
+
+}
+
+body {
+    background-color: grey;
+
+}
+
+main {
+    display: flex;
+    min-width: 350px;
+    max-width: 1008px;
+
+    margin: auto;
+
+}
+
+section {
+
+    text-align: justify;
+
+}
+
+#containerp {
+
+    background-color: yellow;
+    padding: 20px;
+    
+}
+
+
+
+#pri {
+
+    background-color: aqua;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.ccaixa {
+
+    background-color: green;
+    padding: 20px;
+    height: 457px;
+    margin-bottom: -9px;
+    margin: auto;
+
+
+}
+
+.caixa2 {
+
+    background-color: aqua;
+    padding: 7px;
+    height: 443px;
+    margin: auto;
+
+
+
+}
+
+.branco {
+    background-color: white;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+
+
+
+}
+
+#cpx {
+
+    width: 400px;
+    margin:auto
+
+
+}
+
+#bl
+{
+
+    background-color: rgb(255, 187, 0);
+    padding: 20px;
+    display: flex;
+}
+
+#d1{
+
+    background-color: whitesmoke;
+
+    box-shadow: 10px 10px 10px solid black;
+    padding: 40px;
+}
+
+footer {
+
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
