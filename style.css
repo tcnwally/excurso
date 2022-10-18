@@ -2,6 +2,8 @@
 
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    flex-wrap: wrap;
 }
 
 
@@ -10,7 +12,6 @@ header {
     background-color: black;
     color: white;
     padding: 20px;
-    margin: auto;
 
 
 }
@@ -39,8 +40,10 @@ body {
 
 main {
     display: flex;
-    min-width: 350px;
-    max-width: 1008px;
+    min-width: 300px;
+    max-width: 1050px;
+   
+   
 
     margin: auto;
 
@@ -72,8 +75,8 @@ section {
 .ccaixa {
 
     background-color: green;
-    padding: 10px;
-    height: 460px;
+    padding: 20px;
+    height: 457px;
     margin-bottom: -9px;
     margin: auto;
 
@@ -103,9 +106,11 @@ section {
 
 #cpx {
 
-    width: 358px;
-    margin:auto
-
+    
+    min-width: 300px;
+    max-width: 1050px;
+    flex-wrap: wrap;
+    margin: auto;
 
 }
 
@@ -120,9 +125,9 @@ section {
 #d1{
 
     background-color: whitesmoke;
+
     box-shadow: 10px 10px 10px solid black;
     padding: 40px;
-    margin: auto;
 }
 
 footer {
@@ -130,6 +135,5 @@ footer {
     background-color: black;
     color: aliceblue;
     text-align: center;
-    margin: auto;
 }
 
