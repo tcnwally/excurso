@@ -10,6 +10,7 @@ header {
     background-color: black;
     color: white;
     padding: 20px;
+    margin: auto;
 
 
 }
@@ -129,5 +130,6 @@ footer {
     background-color: black;
     color: aliceblue;
     text-align: center;
+    margin: auto;
 }
 
