@@ -120,9 +120,9 @@ section {
 #d1{
 
     background-color: whitesmoke;
-
     box-shadow: 10px 10px 10px solid black;
     padding: 40px;
+    margin: auto;
 }
 
 footer {
